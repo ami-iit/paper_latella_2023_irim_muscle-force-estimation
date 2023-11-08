@@ -1,5 +1,5 @@
 <h1 align="center">
-Real-time lower leg muscle forces estimation using a Hill-type model and whole-body wearable sensors
+Real-time Lower Leg Muscle Forces Estimation using a Hill-type Model and Whole-body Wearable Sensors
 </h1>
 
 <div align="center">
