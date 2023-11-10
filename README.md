@@ -12,6 +12,10 @@ Claudia Latella, Antonella Tatarelli, Lorenzo Fiori, Riccardo Grieco, Lorenzo Ra
  <h6>  5th Italian Conference in Robotics and Intelligent Machines (I-RIM), 2023 </h6> 
 </div>
 
+<div align="center">
+<a href="https://huggingface.co/datasets/ami-iit/paper_latella_2023_irim_muscle-force-estimation_dataset"><b>Dataset</b></a>
+</div>
+
 ### Acknowledgement
 The paper has been supported by the Italian National Institute for Insurance against Accidents at Work (INAIL)  <a href="https://ergocub.eu/"><b>ergocub Project</b></a> . This work has been also supported by the Italian Ministry of Research, under the complementary actions to the NRRP “Fit4MedRob - Fit for Medical Robotics” Grant (number PNC0000007). This work was also carried out within the framework of the project ”RAISE-Robotics and AI for Socio-economic Empowerment” and has been supported by European Union - NextGenerationEU. However, the views and opinions expressed are hose of the authors alone and do not necessarily reflect those of the European Union or the European Commission. Neither the European Union nor the European Commission can be held responsible for them.
 
