@@ -7,6 +7,7 @@ Real-time Lower Leg Muscle Forces Estimation using a Hill-type Model and Whole-b
 Claudia Latella, Antonella Tatarelli, Lorenzo Fiori, Riccardo Grieco, Lorenzo Rapetti, Daniele Pucci </h6> 
 </div>
 
+<p align="center"><img src="https://github.com/ami-iit/paper_latella_2023_irim_muscle-force-estimation/assets/10923418/62e38997-5d86-4cbb-8391-fb82ebb125ad" alt=""/></p>
 
 <div align="center">
  <h6>  5th Italian Conference in Robotics and Intelligent Machines (I-RIM), 2023 </h6> 
