@@ -7,7 +7,7 @@ Real-time Lower Leg Muscle Forces Estimation using a Hill-type Model and Whole-b
 Claudia Latella, Antonella Tatarelli, Lorenzo Fiori, Riccardo Grieco, Lorenzo Rapetti, Daniele Pucci </h6> 
 </div>
 
-<p align="center"><img src="https://github.com/ami-iit/paper_latella_2023_irim_muscle-force-estimation/assets/10923418/62e38997-5d86-4cbb-8391-fb82ebb125ad" alt=""/></p>
+<p align="center"><img src="https://github.com/ami-iit/paper_latella_2023_irim_muscle-force-estimation/assets/10923418/b3b306d8-c759-4952-8908-e57247b43176" alt=""/></p>
 
 <div align="center">
  <h6>  5th Italian Conference in Robotics and Intelligent Machines (I-RIM), 2023 </h6> 
@@ -16,7 +16,8 @@ Claudia Latella, Antonella Tatarelli, Lorenzo Fiori, Riccardo Grieco, Lorenzo Ra
 <div align="center">
 <a href="https://huggingface.co/datasets/ami-iit/paper_latella_2023_irim_muscle-force-estimation_dataset"><b>Dataset</b></a> |
 <a href="https://github.com/ami-iit/paper_latella_2023_irim_muscle-force-estimation/blob/master/instructions/installation.md"><b>Installation</b></a> |
-<a href="https://github.com/ami-iit/paper_latella_2023_irim_muscle-force-estimation/blob/master/instructions/usage.md"><b>Usage</b></a>
+<a href="https://github.com/ami-iit/paper_latella_2023_irim_muscle-force-estimation/blob/master/instructions/usage.md"><b>Usage</b></a> |
+ <a href="https://www.youtube.com/watch?v=JXj8z1ECeIs"><b>Video</b></a>
 </div>
 
 ### Installation and usage
