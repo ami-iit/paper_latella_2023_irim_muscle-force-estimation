@@ -9,7 +9,7 @@
 - Open Matlab.
 - Browse to the repository.
 - Launch the script `launchDataset.m`.
-- A dialog box will ask you the number of trial to be inserted.
+- A dialog box will ask you the number of trial to be inserted (e.g., Trial 3, 4 and 5).
 - The computation will provide:
   - several musculoskeletal quantities estimation plots,
   - a combined visualization of the kinematics of the human right leg and the muscles dynamics contraction.
