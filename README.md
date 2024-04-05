@@ -14,6 +14,7 @@ Claudia Latella, Antonella Tatarelli, Lorenzo Fiori, Riccardo Grieco, Lorenzo Ra
 </div>
 
 <div align="center">
+<a href="doi.org/10.5281/zenodo.10722443"><b>Paper</b></a> |
 <a href="https://huggingface.co/datasets/ami-iit/paper_latella_2023_irim_muscle-force-estimation_dataset"><b>Dataset</b></a> |
 <a href="https://github.com/ami-iit/paper_latella_2023_irim_muscle-force-estimation/blob/master/instructions/installation.md"><b>Installation</b></a> |
 <a href="https://github.com/ami-iit/paper_latella_2023_irim_muscle-force-estimation/blob/master/instructions/usage.md"><b>Usage</b></a> |
