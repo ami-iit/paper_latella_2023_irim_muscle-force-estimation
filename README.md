@@ -51,5 +51,4 @@ This repository is maintained by:
 |:---:|:---:|
 | [<img src="https://user-images.githubusercontent.com/10923418/111134395-dff85e80-857b-11eb-9d47-2f598e8792d7.png" width="40">](https://github.com/claudia-lat) | [Claudia Latella](https://github.com/claudia-lat) |
 
-<p align="left">
-   <a href="https://github.com/ami-iit/paper_latella_2023_irim_muscle-force-estimation/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ami-iit/paper_latella_2023_irim_muscle-force-estimation" alt="Size" class="center"/></a>
+[![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
